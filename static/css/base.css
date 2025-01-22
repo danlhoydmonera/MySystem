@@ -1,0 +1,11 @@
+h1 {
+    color: #4ac1f7;
+}
+
+.background {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    width: 100vw;
+}
